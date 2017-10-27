@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Diploma in Philology, Moscow State University, Russia, 2010
+* Ph.D. student, University of Potsdam, (current)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - present: Coordinator of the Master in Cognitive Systems Programme
+  * University of Potsdam
+  
+* 2013 - present: Junior Research Fellow
+  * National Research University Higher School of Economics
+
+
   
 Skills
 ======
@@ -54,6 +52,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
