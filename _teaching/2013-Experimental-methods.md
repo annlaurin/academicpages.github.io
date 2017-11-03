@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2013-Experimental-methods
 venue: "National Research University Higher School of Economics"
-date: 2013
+date: 2013-04-01
 location: "Moscow, Russia"
 ---
