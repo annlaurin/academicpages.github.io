@@ -9,4 +9,4 @@ citation: 'Dragoy O.V., Bergelson M.B., Iskra E., Laurinavichyute A.K., Mannova 
 ---
 [//]: # ([Download paper here](http://academicpages.github.io/files/paper2.pdf))
 
-Recommended citation: Dragoy O.V., Bergelson M.B., Iskra E., Laurinavichyute A.K., Mannova E., Skvortsov A., Statnikov A. (2016). "Comprehension of reversible constructions in semantic aphasia." <i>Aphasiology</i>. 30(1),  pp. 1–22.
+
