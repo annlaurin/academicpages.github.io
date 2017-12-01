@@ -9,5 +9,5 @@ paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5465429/'
 citation: 'Laurinavichyute A.K., Jäger L., Akinina Yu., Ro J, Dragoy O.V. (2017). &quot;Retrieval and encoding interference: cross-linguistic evidence from anaphor processing.&quot; <i>Frontiers in Psychology</i>. Vol. 8, p. 965.'
 ---
 
-[Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5465429/)
+[//]: # ([Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5465429/))
 
