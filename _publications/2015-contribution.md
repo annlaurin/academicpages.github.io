@@ -1,4 +1,3 @@
-
 ---
 title: "The contribution of working memory to language comprehension: differential effect of aphasia type"
 collection: publications
