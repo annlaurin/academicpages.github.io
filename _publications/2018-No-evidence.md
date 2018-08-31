@@ -7,3 +7,4 @@ venue: 'Psychology and Aging'
 paperurl: 'https://annlaurin.github.io/files/MalyutinaEtAl_SlowingInSentenceProcessing_accepted.pdf'
 citation: 'Malyutina S., Laurinavichyute A.K., Terekhina M., Lapin Ye. &quot;No evidence for strategic nature of age-related slowing in sentence processing.&quot; <i>Psychology and Aging</i>, in press.'
 ---
+([Download paper here](https://annlaurin.github.io/files/MalyutinaEtAl_SlowingInSentenceProcessing_accepted.pdf))
