@@ -78,12 +78,12 @@ analytics:
 # Site Author
 author:
   name             : "Anna Laurinavichyute"
-  avatar           : "profile.png"
+  avatar           : "AL.JPG"
   bio              : "Psycholinguist"
   location         : "Potsdam, Germany"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=dFA22vAAAAAJ&hl=ru"
-  email            :
+  email            : "anna.laurinavichyute@uni-potsdam.de"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/0000-0002-3150-0206"
+  orcid            : "https://orcid.org/0000-0002-3150-0206"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
