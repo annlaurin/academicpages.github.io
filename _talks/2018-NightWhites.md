@@ -1,5 +1,5 @@
 ---
-title: "“Reactivation of syntactic traces in the Visual World paradigm?"
+title: "Reactivation of syntactic traces in the Visual World paradigm?"
 collection: talks
 type: "Talk"
 permalink: /talks/2018-NightWhites
