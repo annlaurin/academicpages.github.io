@@ -5,6 +5,6 @@ type: "Talk"
 permalink: /talks/2019-AMLaP
 venue: "Architectures and Mechanisms of Language Processing, 2019"
 date: 2019-09-08
-location: "National Research University Higher School of Economics, Moscow, Russiaamlap"
+location: "National Research University Higher School of Economics, Moscow, Russia"
 ---
 
